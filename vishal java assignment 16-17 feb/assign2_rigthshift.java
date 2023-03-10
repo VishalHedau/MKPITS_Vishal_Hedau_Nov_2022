@@ -1,0 +1,24 @@
+
+//Write a Java program to shift given data by two bits to the right.
+
+import java.util.*;
+
+class assign2_rigthshift{
+
+public static void main(String [] args){
+
+Scanner sc = new Scanner(System.in);
+
+System.out.println("Enter first num: ");
+int a = sc.nextInt();
+
+int b;
+
+b = a<<2;
+
+System.out.println("right shift " +b);
+
+
+
+}
+}
