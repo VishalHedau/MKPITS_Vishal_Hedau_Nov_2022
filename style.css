@@ -1,0 +1,26 @@
+.one{
+    /* color:chartreuse;  */
+    color:rgb(80, 227, 154);
+    background-color: black;
+    border: 3px solid red;
+
+}
+
+.three{
+    /* color:chartreuse;  */
+    color:rgba(80, 227, 154,0.7);
+    background-color: black;
+
+}
+
+.two{
+
+    background-color: hsl(15,100%,50%);
+    color: hsla(10,100%,1%.0.9);
+}
+
+
+.five{
+color: #ff0000;
+background-color: black;
+}
